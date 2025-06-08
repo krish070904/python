@@ -6,3 +6,6 @@ print(char1)
 print(name[:])#prints complete string
 print(name[:4])# is same as print (name[0:4])
 print(name[1:])# is same as print (name[1:5])
+
+b = "123456789"
+print(b[1:6:2])
